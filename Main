@@ -1,0 +1,92 @@
+(This method is specifically targeted to 7k-2k rap people; try to look for people that seem gullible; made by me, trick#5467)
+
+PREREAD:
+ - This is actually not the UUC method. It simply piggybacks the "concept" and utilizes the roblox trades api.
+ - This method contains tips on how to make you sound convincing.
+ - Try to ask the victim for confirmation, like, "tell me when you're done with this step."
+ - Sometimes, when I find a good target, I usually will look them up on Rolimons. I check for the following:
+[] Join date (if it's under 2017 I usually don't bother)
+[] Their profile (to check if they seem childish enough; look in their bio, groups, and status)
+[] Their graph (to get a rough estimate of their trading skills and if they bought items via robux)
+[] Their friends list (usually, good targets will have over 100 friends on the list who contain very generic usernames)
+[] Past/present usernames, if any (this gives a vague sense of what they're like, ie. having a username similar to "bob10cool842")
+ - On last note, practice makes perfect. You might not get a hit the first time you do it.
+ Although the method was made to have a higher success rate, it still relies on common sense, flexibility, and how convincing you are.
+ (ie. you probably shouldn't say "this is totally not a scam and 100% won't get your acc banned trust me a lot ok"
+ 
+
+1. Ask a guy if they want to learn the uuc method. Say, "yo you wanna learn uuc method?" or "hi, want to learn the uuc method?" 
+If they say "sure, i guess" or something like that, then move onto step 3.
+
+2. If they say, "what is that," or something like that, tell them that it is a very profitable trading method.
+Then ask them if they are interested or not. If they're not, move onto another victim.
+You can also convince them by telling them to look it up if they don't know. 
+Then tell them that they'll show you what it does, but not how to do it. 
+
+3. Ask them for their discord. Say something like,
+ "wait, do you have" 
+"disco rr d"
+"so we can talk and discuss things there? I won't make you vc"
+If they don't have discord, don't bother because it will almost never work without it.
+
+4. Once you got them added, introduce yourself and tell them to add you on roblox as well. 
+If they ask why, tell them that it's because you just want to trade with them later, or keep in touch with you. 
+
+5. Ask them if they know what the method does. Say something like, 
+"do you know what the method does? or should I explain"
+
+6. They will usually say "explain," so tell them, 
+"so basically, when you send someone a trade and they accept, you will get their item, but they won't since it'll be stuck in processing for them"
+After that, you can tell them to look up "uuc method" if they want to research it more. Tell them that they'll show you what it does, but not how to do it (if you haven't already)
+
+7. Tell them that you can show them how it works and that they can try it on you. Say something like,
+"uhh, you can try it on me ig" Then ask them if they want to know how to do it. In most cases, they'll say yes.
+
+8. Tell them that first, they have to set their trade filter to none and send you a trade. Say something like,
+"so first, you have to turn off your trade filter (https://www.roblox.com/my/account#!/privacy and scroll all the way down) then, you just have to send me any trade,
+tell me when you're done" Keep in mind that this should be done in multiple lines, not one, to give the effect that you're not just copy and pasting. This step is
+to disable their trade filter and give authenticity to the victim. 
+
+9. When they have sent the trade, show them a picture of it in your inbound
+(via screenshot; windowskey+shift+s)
+Very quickly, send them a trade and go to https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=100
+Copy the set of numbers next to their name. There will be two. Get the one that's the furthest on the left that is not branched with the username.
+Still having trouble? Just test if the number you're copying is their Roblox profile ID. If it IS, then you got the wrong one.
+
+10. Get them to go to the roblox trades api. Say something like, 
+"now we will have to go to the roblox api
+do you know where that is? or should I show you" 
+
+11. They will probably say "show me," so give them this link: 
+https://trades.roblox.com/docs#!/Trades/post_v1_trades_tradeId_accept
+Also tell them, "it should look like this" and send them this image:
+https://imgur.com/a/fouEaGd
+
+12. Now tell them that they have to paste the numbers in the area where it says (required) next to tradeId. 
+Refer to step 9 to figure out how to get the numbers. 
+Say something like,
+"you see the part where it says (required) next to tradeId? put in these set of numbers (insert numbers here) and press "try it out!" at the bottom"
+Also say,
+"make sure there are no spaces before or after the numbers when you copy it"
+"you should also make sure that you are doing this on the same browser roblox is logged on to"
+
+14. Keep refreshing your outbound. If the trade is not in outbound and in completed, refer to step 16.
+If the trade is still in outbound and is not in completed, then tell them that,
+"hmm, it isn't working the way it should've, try again?" and tell them about the possible issues (below) Also refer to steps 10-12. 
+Common issues are below:
+
+A: The victim did not enter in the numbers.
+B: The victim had a space before or after the set of numbers.
+C: The victim did it on a browser that roblox was not logged onto.
+D: The victim didn't press "try it out!"
+
+15. Continue with step 14 until you see the trade you sent in completed.
+
+16. Go to your settings>privacy and set your 'who can see my inventory' to nobody. Then, quickly say,
+"wait brb, I gotta eat dinner" or any excuse to be AFK that you think is good.
+Leave the Trade Hangout server if you haven't already.
+Then, delete all the discord messages.
+PROTIP lol: Use shift+f, hover over the message you sent, and press the little trash can icon to delete messages fast. 
+Then, block them on Discord. After that, quickly go to their roblox profile and unfriend them and block them there.
+
+17. Profit.
